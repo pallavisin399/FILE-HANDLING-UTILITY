@@ -12,3 +12,7 @@ FILE-HANDLING-UTILITY
 
 *MENTOR*:NEELA SANTOSH
 
+''output''
+
+"C:\Users\Administrator\Pictures\Saved Pictures\opp1_files"
+
